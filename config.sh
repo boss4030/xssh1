@@ -1,1 +1,1 @@
-NGROK_TOKEN="https://dashboard.ngrok.com/get-started/your-authtoken"
+NGROK_TOKEN="2Pwum7QpcL2brLE86jOJO9uGjOX_2nqNWzLM1JtZi5D3g6GGq"
